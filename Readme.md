@@ -1,6 +1,7 @@
 Dibuat sebagai bagian penyelesaian Ujian Kompetensi Keahlian Rekayasa Perangkat Lunak 2024 <br>
-Pembuat            : Dimas Yuda Pratama
-Kelas              : XII RPL
-Absen              : 09
-Sekolah            : SMK Bukit Asam Tanjung Enim
-Di selesaikan pada : 21 Februari 2024
+<br>
+Pembuat            : Dimas Yuda Pratama<br>
+Kelas              : XII RPL<br>
+Absen              : 09<br>
+Sekolah            : SMK Bukit Asam Tanjung Enim<br>
+Di selesaikan pada : 21 Februari 2024<br>
