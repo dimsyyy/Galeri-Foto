@@ -1,4 +1,4 @@
-Dibuat sebagai bagian penyelesaian Ujian Kompetensi Keahlian Rekayasa Perangkat Luna 2024
+Dibuat sebagai bagian penyelesaian Ujian Kompetensi Keahlian Rekayasa Perangkat Lunak 2024
 Pembuat            : Dimas Yuda Pratama
 Kelas              : XII RPL
 Absen              : 09
